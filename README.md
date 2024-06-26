@@ -1,7 +1,7 @@
 ## Hello world, meu nome é Luiz Eduardo Biermann Picoli
 
 
-- 🌱 Estou aprendendo desenvolvimento web.
+- 🌱 Estou estudando desenvolvimento web.
 - 🧑‍🎓 Cursando ciência da computação.
 - 📫 Email para contato: leduardo3011@gmail.com
 - ⚡ Curiosidade: Mus hobbies são jogar e aprender novas tecnologias.
