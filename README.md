@@ -1,4 +1,4 @@
-## Hello world, meu nome é Luiz Eduardo Biermann Picoli
+## Hello world, meu nome é Luiz Eduardo Biermann Picoli.
 
 
 - 🌱 Estou estudando desenvolvimento web.
