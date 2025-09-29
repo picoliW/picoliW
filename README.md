@@ -1,6 +1,6 @@
-## Hello world, meu nome é Luiz Eduardo Biermann Picoli.
+## Hello world, meu nome é Luiz Eduardo.
 
 - 📋 [Linkedin](https://www.linkedin.com/in/luizpicoli/)
-- 📫 Email para contato: leduardo3011@gmail.com
+- 📫 Email: leduardo3011@gmail.com
 
 [![picoliW GitHub stats](https://github-readme-stats.vercel.app/api?username=picoliW)](https://github.com/anuraghazra/github-readme-stats)
