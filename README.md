@@ -3,5 +3,3 @@
 - 📋 [Linkedin](https://www.linkedin.com/in/luizpicoli/)
 - 📫 Email: leduardo3011@gmail.com
 - 🌐 [Portfolio website](https://luizpicoli.com)
-  
-[![picoliW GitHub stats](https://github-readme-stats.vercel.app/api?username=picoliW)](https://github.com/anuraghazra/github-readme-stats)
